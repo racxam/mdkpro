@@ -1,0 +1,6 @@
+ID,Name,Email,createdAt,createdBy,modifiedAt,modifiedBy
+7fa7c4d2-7d2a-4a42-a411-89c1b1de4164,John Doe,johndoe@example.com,2024-10-08T09:00:00.000Z,admin,2024-10-08T10:00:00.000Z,admin
+3b9f1721-5a5d-4b50-8d7b-8edb7e8b653f,Jane Smith,janesmith@example.com,2024-10-08T09:10:00.000Z,admin,2024-10-08T10:15:00.000Z,admin
+14ab73fc-e849-4b71-b556-56e920df5f91,Mark Brown,markbrown@example.com,2024-10-08T09:20:00.000Z,admin,2024-10-08T10:20:00.000Z,admin
+c024c798-72b2-4f32-aacc-fb0e945e31f1,Linda Green,lindagreen@example.com,2024-10-08T09:30:00.000Z,admin,2024-10-08T10:25:00.000Z,admin
+a6bb2ad8-f1d7-445d-95a6-c76a582b7c5b,Paul White,paulwhite@example.com,2024-10-08T09:40:00.000Z,admin,2024-10-08T10:30:00.000Z,admin

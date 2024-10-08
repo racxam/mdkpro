@@ -1,0 +1,6 @@
+ID,ProjectName,Description,Owner_ID,createdAt,createdBy,modifiedAt,modifiedBy
+bb5126b1-29b1-47b0-9fa6-14a2e6b0d4d2,New Office Construction,Building a new office space,7fa7c4d2-7d2a-4a42-a411-89c1b1de4164,2024-10-08T10:00:00.000Z,admin,2024-10-08T11:00:00.000Z,admin
+9e98a8a5-8f36-4820-89e2-72f16d8234a1,Software Upgrade,Upgrade the software system,3b9f1721-5a5d-4b50-8d7b-8edb7e8b653f,2024-10-08T10:30:00.000Z,admin,2024-10-08T11:15:00.000Z,admin
+02775c8b-3fe2-4f23-bf0d-02e0e35fe32b,HR Portal Development,Developing a new HR portal,14ab73fc-e849-4b71-b556-56e920df5f91,2024-10-08T10:45:00.000Z,admin,2024-10-08T11:30:00.000Z,admin
+81a8a8cf-712e-40c6-b0ab-85c369268e94,Marketing Campaign Setup,Creating a marketing campaign,c024c798-72b2-4f32-aacc-fb0e945e31f1,2024-10-08T11:00:00.000Z,admin,2024-10-08T11:45:00.000Z,admin
+f00d5f43-f86a-45f8-8d90-839bd2c2cc0b,Warehouse Expansion,Expanding the warehouse facility,a6bb2ad8-f1d7-445d-95a6-c76a582b7c5b,2024-10-08T11:15:00.000Z,admin,2024-10-08T12:00:00.000Z,admin
